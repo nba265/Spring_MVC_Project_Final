@@ -8,7 +8,7 @@ public class HomeController {
 
     @GetMapping({"/index","/"})
     public String home(){
-        System.out.println("bede");
+        System.out.println("9857894375893");
         return "index";
     }
 }
