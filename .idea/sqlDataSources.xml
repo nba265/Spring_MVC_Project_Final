@@ -5,4 +5,19 @@
       <data-sources db="247f12ce-2357-4218-b37e-e141a96a01e7" />
     </mapping>
   </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="cfd82a6a-6289-4bef-aebd-15382acef419" />
+          <option name="name" value="DDL data source" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/src/main/java/com/mycompany/spring_mvc_project_final/entities" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
 </project>
